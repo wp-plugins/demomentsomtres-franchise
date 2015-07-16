@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeMomentSomTres Franquicia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jun 12 2015 12:33:16 GMT+0200 (CEST)\n"
+"PO-Revision-Date: Sat Jun 13 2015 11:11:31 GMT+0200 (CEST)\n"
+"Last-Translator: dms3 <dms3@demomentsomtres.com>\n"
+"Language-Team: \n"
+"Language: Catalan\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ca_ES\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .."
+
+#: ../demomentsomtres-franquicia.php:180 ../lib/example.php:99 ../lib/class-tgm-
+#: plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:181 ../lib/example.php:100 ../lib/class-tgm-
+#: plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:182 ../lib/example.php:101 ../lib/class-tgm-
+#: plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:183 ../lib/example.php:102 ../lib/class-tgm-
+#: plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:184 ../lib/example.php:103 ../lib/class-tgm-
+#: plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:185 ../lib/example.php:104 ../lib/class-tgm-
+#: plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../demomentsomtres-franquicia.php:186 ../lib/example.php:105 ../lib/class-tgm-
+#: plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../demomentsomtres-franquicia.php:187 ../lib/example.php:106 ../lib/class-tgm-
+#: plugin-activation.php:177 ../lib/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../demomentsomtres-franquicia.php:188 ../lib/example.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../demomentsomtres-franquicia.php:306
+msgid "eMail"
+msgstr "email"
+
+#: ../demomentsomtres-franquicia.php:320
+msgid "Facebook"
+msgstr "facebook"
+
+#: ../demomentsomtres-franquicia.php:327
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../demomentsomtres-franquicia.php:615
+msgid "#_EVENTLINK will take place at #_LOCATIONLINK on #_EVENTDATES at #_EVENTTIMES"
+msgstr "#_EVENTLINK a #_LOCATIONLINK  (#_EVENTDATES - #_EVENTTIMES)"
+
+#: ../lib/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Tornar al Tauler"
+
+#: ../lib/class-tgm-plugin-activation.php:178 ../lib/class-tgm-plugin-activation.
+#: php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "S'ha instal·lat l'extensió:"
+msgstr[1] "S'ha instal·lat les extensions:"
+
+#: ../lib/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:532 ../lib/class-tgm-plugin-activation.
+#: php:532 ../lib/class-tgm-plugin-activation.php:2173 ../lib/class-tgm-plugin-
+#: activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1167 ../lib/class-tgm-plugin-activation.
+#: php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1170 ../lib/class-tgm-plugin-activation.
+#: php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1288 ../lib/class-tgm-plugin-activation.
+#: php:1288 ../lib/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1312 ../lib/class-tgm-plugin-activation.
+#: php:1312 ../lib/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2070 ../lib/class-tgm-plugin-activation.
+#: php:2079
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2070 ../lib/class-tgm-plugin-activation.
+#: php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../demomentsomtres-franquicia.php:168
+msgid "Some plugins are missing!"
+msgstr "Falten extensions!"
+
+#: ../demomentsomtres-franquicia.php:170
+msgid "This are the required plugins"
+msgstr "Aquests són les extensions necessàries"
+
+#: ../demomentsomtres-franquicia.php:172 ../lib/example.php:91 ../lib/class-tgm-
+#: plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Instal·lar extencions necessàries"
+
+#: ../demomentsomtres-franquicia.php:173 ../lib/example.php:92 ../lib/class-tgm-
+#: plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Instal·lar extensions"
+
+#: ../demomentsomtres-franquicia.php:174 ../lib/example.php:93 ../lib/class-tgm-
+#: plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instal·lant l'extensió %s"
+
+#: ../demomentsomtres-franquicia.php:175 ../lib/example.php:94
+msgid "Something went wrong with the plugin API."
+msgstr "Hi ha hagut un error amb l'API d'extensions"
+
+#: ../demomentsomtres-franquicia.php:176 ../lib/example.php:95 ../lib/class-tgm-
+#: plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Aquesta extensió necessita de %1$s."
+msgstr[1] "Aquesta extensió necessita les extensions següents: %1$s."
+
+#: ../demomentsomtres-franquicia.php:177 ../lib/example.php:96 ../lib/class-tgm-
+#: plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "És recomanable comptar amb l'extensió %1$s."
+msgstr[1] "És recomanable comptar amb les extensions %1$s."
+
+#: ../demomentsomtres-franquicia.php:178 ../lib/example.php:97 ../lib/class-tgm-
+#: plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] "No tens permisos suficients per instal·lar l'extensió %1$s."
+msgstr[1] "No tens permisos suficients per instal·lar les extensions %1$s."
+
+#: ../demomentsomtres-franquicia.php:179 ../lib/example.php:98 ../lib/class-tgm-
+#: plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "%1$s és una extensió requerida i es troba inactiva."
+msgstr[1] "%1$s són extensions requerides i es troben inactives."
+
+#: ../demomentsomtres-franquicia.php:202
+msgctxt "Post Type General Name"
+msgid "Stores"
+msgstr "Botigues"
+
+#: ../demomentsomtres-franquicia.php:203
+msgctxt "Post Type Singular Name"
+msgid "Store"
+msgstr "Botiga"
+
+#: ../demomentsomtres-franquicia.php:204 ../demomentsomtres-franquicia.php:205
+msgid "Stores"
+msgstr "Botigues"
+
+#: ../demomentsomtres-franquicia.php:206
+msgid "Parent Store:"
+msgstr "Botiga mare:"
+
+#: ../demomentsomtres-franquicia.php:207
+msgid "All Stores"
+msgstr "Totes les botigues"
+
+#: ../demomentsomtres-franquicia.php:208
+msgid "Add New Store"
+msgstr "Afegeix una botiga nova"
+
+#: ../demomentsomtres-franquicia.php:209
+msgid "Add New"
+msgstr "Afegeix "
+
+#: ../demomentsomtres-franquicia.php:210
+msgid "New Store"
+msgstr "Nova botiga"
+
+#: ../demomentsomtres-franquicia.php:211
+msgid "Edit Store"
+msgstr "Edita la botiga"
+
+#: ../demomentsomtres-franquicia.php:212
+msgid "Update Store"
+msgstr "Actualitza la botiga"
+
+#: ../demomentsomtres-franquicia.php:213
+msgid "View Store"
+msgstr "Mira la botiga"
+
+#: ../demomentsomtres-franquicia.php:214
+msgid "Search Store"
+msgstr "Busca la botiga"
+
+#: ../demomentsomtres-franquicia.php:215
+msgid "Not found"
+msgstr "No s'ha trobada"
+
+#: ../demomentsomtres-franquicia.php:216
+msgid "Not found in trash"
+msgstr "No s'ha trobat a la brossa"
+
+#: ../demomentsomtres-franquicia.php:219
+msgid "franchise-store"
+msgstr "Botiga-franquícia"
+
+#: ../demomentsomtres-franquicia.php:220
+msgid "Franchise Store"
+msgstr "Botiga Franquícia"
+
+#: ../demomentsomtres-franquicia.php:252
+msgid "Store information"
+msgstr "Informació sobre la botiga"
+
+#: ../demomentsomtres-franquicia.php:258
+msgid "Featured Image"
+msgstr "Imatge destacada"
+
+#: ../demomentsomtres-franquicia.php:264
+msgid "Location"
+msgstr "Ubicació"
+
+#: ../demomentsomtres-franquicia.php:265 ../demomentsomtres-franquicia.php:295
+msgid "Store contact information"
+msgstr "Informació de contacte de la botiga"
+
+#: ../demomentsomtres-franquicia.php:269
+msgid "Store Address"
+msgstr "Adreça de la botiga"
+
+#: ../demomentsomtres-franquicia.php:270
+msgid "Street and numero"
+msgstr "Núm."
+
+#: ../demomentsomtres-franquicia.php:276
+msgid "Store Town"
+msgstr "Població de la botiga"
+
+#: ../demomentsomtres-franquicia.php:282
+msgid "Store Zip Code"
+msgstr "CP"
+
+#: ../demomentsomtres-franquicia.php:288
+msgid "Store Position"
+msgstr "Posició de la botiga"
+
+#: ../demomentsomtres-franquicia.php:289
+msgid "The name of the store"
+msgstr "El nom de la botiga"
+
+#: ../demomentsomtres-franquicia.php:294
+msgid "Contact"
+msgstr "Contacte"
+
+#: ../demomentsomtres-franquicia.php:299
+msgid "Contact person"
+msgstr "Persona de contacte"
+
+#: ../demomentsomtres-franquicia.php:300
+msgid "Store contact person"
+msgstr "Persona de contacte de la botiga"
+
+#: ../demomentsomtres-franquicia.php:307
+msgid "Store eMail Address"
+msgstr "Adreça email de la botiga"
+
+#: ../demomentsomtres-franquicia.php:313
+msgid "Phone"
+msgstr "Telèfon"
+
+#: ../demomentsomtres-franquicia.php:314
+msgid "Store phone"
+msgstr "Telèfon de la botiga"
+
+#: ../demomentsomtres-franquicia.php:321
+msgid "Full facebook URL"
+msgstr "URL sencera de Facebook"
+
+#: ../demomentsomtres-franquicia.php:328
+msgid "Store Twitter Username (without @)"
+msgstr "Usuari de Twitter de la botiga (sense la @)"
+
+#: ../demomentsomtres-franquicia.php:334
+msgid "Gallery"
+msgstr "Galeria"
+
+#: ../demomentsomtres-franquicia.php:339
+msgid "Images"
+msgstr "Imatges"
+
+#: ../demomentsomtres-franquicia.php:340
+msgid "Upload, select and sort the images for the store"
+msgstr "Puja, selecciona i ordena les imatges de la botiga"
+
+#: ../demomentsomtres-franquicia.php:348
+msgid "Store WordPress Integration"
+msgstr "Integració de la botiga amb WordPress"
+
+#: ../demomentsomtres-franquicia.php:354
+msgid "Categories"
+msgstr "Categories"
+
+#: ../demomentsomtres-franquicia.php:358
+msgid "Content category"
+msgstr "Categoria de continguts"
+
+#: ../demomentsomtres-franquicia.php:371
+msgid "Events category"
+msgstr "Categoria d'esdeveniments"
+
+#: ../lib/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Alguna cosa no ha funcionat"
