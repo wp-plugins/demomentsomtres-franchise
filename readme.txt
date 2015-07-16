@@ -32,6 +32,9 @@ The system should be configured with allow_open directive active.
 == Screenshots ==
 
 == Changelog ==
+= 1.0.1 =
+* WooCommerce compatibilty Bug
+
 = 1.0 =
 * Initial release
 * Translation ready

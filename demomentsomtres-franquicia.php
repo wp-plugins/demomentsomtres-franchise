@@ -5,7 +5,7 @@
  Plugin Name: DeMomentSomTres Franquicia
  Plugin URI: http://demomentsomtres.com/english/wordpress-plugins/demomentsomtres-labels/
  Description: DeMomentSomTres Franquicia
- Version: 1.0
+ Version: 1.0.1
  Author: DeMomentSomTres
  Author URI: http://www.DeMomentSomTres.com
  License: GPLv2 or later
@@ -234,7 +234,7 @@ class DeMomentSomTresFranquicia {
             'public' => true,
             'show_ui' => true,
             'show_in_menu' => true,
-            'menu_position' => 25,
+            // 'menu_position' => 25, -- WooCommerce compatibilty - v1.0.1
             'menu_icon' => 'dashicons-store',
             'show_in_admin_bar' => true,
             'show_in_nav_menus' => true,
